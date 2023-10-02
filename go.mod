@@ -1,4 +1,4 @@
-module qGotd
+module GoCSHAuth
 
 go 1.21
 

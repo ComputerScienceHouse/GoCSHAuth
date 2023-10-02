@@ -10,7 +10,7 @@ import (
 	"github.com/coreos/go-oidc/v3/oidc"
 	"golang.org/x/oauth2"
 	"io"
-	"net/http"
+	http "net/http"
 	"time"
 )
 
